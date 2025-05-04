@@ -72,8 +72,8 @@
 
   <!-- Row 1 -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2black0&layout=compact&theme=default&hide_border=true&card_width=300" width="300" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2black0&theme=default" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2black0&layout=compact&theme=default&hide_border=true&card_width=300" width="260" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2black0&theme=default" width="520" />
   </div>
 
   <!-- Row 2 -->
