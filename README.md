@@ -57,18 +57,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2black0&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2black0&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2black0" alt="GitHub Streak" />
-</div>
-
-<div align="center">
 
   <!-- Row 1 -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
