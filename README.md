@@ -68,13 +68,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2black0" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2black0&layout=compact&theme=default&hide_border=true&card_width=250" width="250" />
+  <!-- Row 1 -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2black0&layout=compact&theme=default&hide_border=true&card_width=300" width="300" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2black0&theme=default" width="300" />
+  </div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2black0&theme=default" width="250" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2black0&theme=default&hide_border=true" width="250" />
+  <!-- Row 2 -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=2black0&show_icons=true&locale=en&theme=default&hide_border=true&card_width=300" width="300" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2black0&theme=default&hide_border=true" width="300" />
+  </div>
 
 </div>
-
