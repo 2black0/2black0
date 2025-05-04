@@ -67,3 +67,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2black0" alt="GitHub Streak" />
 </div>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2black0&layout=compact&theme=default&hide_border=true&card_width=250" width="250" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2black0&theme=default" width="250" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2black0&theme=default&hide_border=true" width="250" />
+
+</div>
+
