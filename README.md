@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <p>👨‍💻 All of my projects are available at <a href="https://github.com/2black0">github.com/2black0</a></p>
+  <p>👨‍💻 All of my public projects are available at <a href="https://github.com/2black0">github.com/2black0</a></p>
   <p>📝 I regularly write articles on <a href="https://ardyseto.github.io">ardyseto.github.io</a></p>
   <p>📫 How to reach me: <strong>2black0@gmail.com</strong></p>
 </div>
